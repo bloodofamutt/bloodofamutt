@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://docs.google.com/document/d/1PZBPPCn5mdzmKCY0bvNtKniAR_rKWLjFJCnQf0ii8yg/edit?tab=t.0">ccherrypie / jen expose</a> <p align="center">
+<p align="center"> <a [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vlh7ccymqkus7r4us5mpplywfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)</a> <p align="center">
 he / him - stles , wilson, sammy <p align="center">
 <p align="center">
 
